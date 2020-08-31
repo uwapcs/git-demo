@@ -1,7 +1,7 @@
 def do_fizzbuzz():
     for i in range(100):
         if (i % 5 == 0):
-            print("BUZZ")
+            print("buzz")
         else:
             print(i)
 
